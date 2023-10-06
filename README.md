@@ -2,7 +2,7 @@
 Homepage: The blog's homepage displays a list of recent blog posts, making it easy for visitors to discover new content.
 Readability: Blog posts are presented in an easy-to-read format, with clear typography and formatting.
 2. Content Management
-3. Create: Authors can create new blog posts, complete with a title, content, and optional images or multimedia.
+Create: Authors can create new blog posts, complete with a title, content, and optional images or multimedia.
 Edit: Authors can edit and update their existing blog posts, ensuring that content stays fresh and relevant.
 Delete: Authors have the option to delete their blog posts when they are no longer needed.
 3. User Registration and Authentication
